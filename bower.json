@@ -1,0 +1,19 @@
+{
+  "name": "MMHackathon2015",
+  "version": "0.0.0",
+  "homepage": "https://github.com/shuwen/MMHackathon2015",
+  "authors": [
+    "Shuwen Qian <sqian@mediamath.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.6"
+  }
+}
